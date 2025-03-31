@@ -1,2 +1,0 @@
-# appliancereapirlaredotx
-My awesome repository
